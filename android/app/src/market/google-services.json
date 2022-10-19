@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "157713659716",
+    "firebase_url": "https://neon-equinox-93818.firebaseio.com",
+    "project_id": "neon-equinox-93818",
+    "storage_bucket": "neon-equinox-93818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157713659716:android:721e786a2e70f572",
+        "android_client_info": {
+          "package_name": "com.ge.kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157713659716-t8efj3h6uhc0dv31f157j7ik0fd2eqid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCrgHfuyB6Syzr1g5kRzjlLOH8r2QaDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-74301252-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157713659716:android:1f5c61978ddaf7b6",
+        "android_client_info": {
+          "package_name": "com.ge.kitchen.field"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157713659716-t8efj3h6uhc0dv31f157j7ik0fd2eqid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCrgHfuyB6Syzr1g5kRzjlLOH8r2QaDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-74301252-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157713659716:android:dec0af8467bf388e",
+        "android_client_info": {
+          "package_name": "com.ge.kitchen.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157713659716-t8efj3h6uhc0dv31f157j7ik0fd2eqid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCrgHfuyB6Syzr1g5kRzjlLOH8r2QaDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-74301252-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
